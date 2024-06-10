@@ -12,8 +12,8 @@ This guide will help you set up and run an Inventory Management System built wit
 First, clone the repository to your local machine using Git. If you don’t have Git installed, you can download and install it from [Git Official Website](https://git-scm.com/).
 
 ```bash
-git clone https://github.com/your-repository-url/inventory-management-system-mern
-cd inventory-management-system-mern
+git clone [https://github.com/swethareddy0/Inventory-Management-System]
+cd Inventory-Management-System
 ```
 
 ### 2. Install Dependencies
@@ -103,5 +103,3 @@ Remove a product from the database. This action is irreversible and will permane
 ## Summary
 
 This Inventory Management System allows you to seamlessly manage product data using a full stack MERN application. It demonstrates the power of MongoDB for data storage, Express.js for backend routing, React for a dynamic frontend, and Node.js for running the server.
-
-Feel free to modify and enhance this project to suit your needs. Happy coding!
