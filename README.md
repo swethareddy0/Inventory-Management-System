@@ -105,11 +105,3 @@ Remove a product from the database. This action is irreversible and will permane
 This Inventory Management System allows you to seamlessly manage product data using a full stack MERN application. It demonstrates the power of MongoDB for data storage, Express.js for backend routing, React for a dynamic frontend, and Node.js for running the server.
 
 Feel free to modify and enhance this project to suit your needs. Happy coding!
-
----
-
-**Note:** For detailed setup instructions or troubleshooting, refer to the project's GitHub repository or documentation.
-
----
-
-If you have any questions or run into issues, don't hesitate to ask for further assistance.
